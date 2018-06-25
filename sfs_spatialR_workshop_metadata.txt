@@ -1,0 +1,12 @@
+Details for Fundamentals of Spatial Data Access and Analysis in R taught at SFS 2018 by Marcus Beck and Ryan Hill. 
+"The setup instructions are available on our website.  Just click the “Before SFS” tab at the top and follow the instruction on each page:  https://ryan-hill.github.io/sfs-r-gis-2018/. In particular, please pay attention to the version of R you will install or have installed on your machine. Many of the GIS packages currently require R version 3.4.4. Second, please take the time to review and install the appropriate R packages once you ensure that you are using R 3.4.4."
+Their website is great, my markdowns generally walk through the syllabus they have laid out, but has additional notes. 
+Order of the Rmarkdowns should be:
+workshop 
+VectorEx
+Vector Ex2
+SimpleFeatures
+raster1
+mapping1
+mapping2
+
